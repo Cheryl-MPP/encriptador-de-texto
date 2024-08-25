@@ -5,10 +5,10 @@ Global Css
 ------------*/
 :root{
     --Font:#FFE7E7;
-    --White:#FFFFFF;
+    --White:#EECAD5;
     --Dark-Blue:#FF0080;
     --Greey:#322C2B;
-    --Medium-Gray:#67808E;
+    --Medium-Gray:#D20062;
     --RGBA:rgba(0,0,0,0.08);
     --White-Blue:#D8DFE8;
     --Medium-Blue:#0a38718a;
@@ -59,7 +59,7 @@ Principal
 main{
     display: flex;
     flex-direction: row;
-    background: url(../imagenes/portada.png) no-repeat;
+    background: url(../imagenes/pink-7761356_1280.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
